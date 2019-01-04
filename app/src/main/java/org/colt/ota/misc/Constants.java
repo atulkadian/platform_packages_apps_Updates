@@ -32,7 +32,7 @@ public class Constants {
     // Build vars
     public static final String CURRENT_DEVICE_NAME = "ro.colt.device";
     public static final String CURRENT_VERSION = "ro.colt.version";
-    public static final String OTA_URL = "https://raw.githubusercontent.com/Colt-Enigma/colt_official_devices/p/%s.json";
+    public static final String OTA_URL = "https://raw.githubusercontent.com/Colt-Enigma/colt_official_devices/c9/%s.json";
     public static final String OTA_VERSION_CODE = "pie";
     // Expressions
     public static final String FILENAME_DATE_FORMAT = "yyyyMMdd";
